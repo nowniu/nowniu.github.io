@@ -1,8 +1,0 @@
-```layout: post
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2017-12-14 13:53:23 +0800
-categories: jekyll update
-```
-
-测试
